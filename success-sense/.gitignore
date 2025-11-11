@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.env.*
+venv/
+.ipynb_checkpoints/
+
+# Data/Models
+models/*.pkl
+models/*.joblib
+data/*.parquet
+
+# Streamlit
+.streamlit/

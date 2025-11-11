@@ -1,0 +1,17 @@
+{
+  "numeric": [
+    "funding_amount",
+    "market_size",
+    "team_experience_years",
+    "team_size",
+    "avg_education_level",
+    "has_patent",
+    "revenue_first_year",
+    "burn_rate",
+    "location_score",
+    "competition_score"
+  ],
+  "categorical": [
+    "sector"
+  ]
+}
